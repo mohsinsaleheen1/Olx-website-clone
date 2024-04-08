@@ -1,0 +1,89 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(245, 245, 245);
+}
+.spc {
+  background: linear-gradient(rgb(167, 167, 167), rgb(255, 255, 255));
+  padding: 3px 7px 3px 7px;
+  border-radius: 100px;
+}
+.btns {
+  border-radius: 50px;
+  border-left-width: 5px;
+  border-left-color: rgb(206, 206, 6);
+  border-bottom-width: 5px;
+  border-bottom-color: rgb(92, 181, 255);
+  border-right-width: 5px;
+  border-right-color: rgb(92, 181, 255);
+  border-top-width: 5px;
+  border-top-color: cyan;
+}
+.hsection {
+  position: sticky !important;
+}
+.navlist {
+  color: black;
+}
+.navlist li a:hover {
+  color: cyan !important;
+}
+.dnavlist li {
+  font-weight: bold;
+}
+.c1 {
+  background-color: rgb(250, 100, 0) !important;
+}
+.c2 {
+  background-color: orange !important;
+}
+.c3 {
+  background-color: bisque !important;
+}
+.c4 {
+  background-color: skyblue !important;
+}
+.c5 {
+  background-color: lightgoldenrodyellow;
+}
+.c6 {
+  background-color: plum;
+}
+.c7 {
+  background-color: darkseagreen;
+}
+.c8 {
+  background-color: rgb(230, 127, 127);
+}
+.c9 {
+  background-color: rgb(210, 255, 168);
+}
+.c10 {
+  background-color: rgb(175, 175, 175);
+}
+.m1 {
+  height: 250px;
+}
+.m2 {
+  height: 250px;
+}
+.m3 {
+  height: 250px;
+}
+.m4 {
+  height: 250px;
+}
+.footerlink li {
+  padding: 10px 0 0 0;
+}
+.footerlink li a {
+  text-decoration: none;
+  color: gray;
+}
+.footerlink li a:hover {
+  color: rgb(102, 102, 102);
+}
+.cati {
+  display: flex !important;
+  justify-content: center !important;
+}
